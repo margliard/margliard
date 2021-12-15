@@ -3,13 +3,15 @@
 
 - 🔭 I’m currently working on **my coding skills**
 
-- 🌱 I’m currently learning **Ruby on Rails, Ruby, JavaScript, HTML/CSS,**
+- 🌱 I’m currently learning **Ruby on Rails, Ruby, JavaScript, HTML/CSS**
 
 - 👯 I’m looking to collaborate on **new web development projects**
 
 - 📫 How to reach me **margliard@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/margot-liard/](https://www.linkedin.com/in/margot-liard/)
+- 🛠 Project under construction : Way Different www.way-different.com
+
+- 📄 Know more about my experiences [https://www.linkedin.com/in/margot-liard/](https://www.linkedin.com/in/margot-liard/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
