@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Margot</h1>
 <h3 align="center">A (recently) passionate developer from Paris.</h3>
 
-- 🔭 I’m currently working on **my coding skills**
+- 🔭 I’m working on **my coding skills**
 
 - 🌱 I’m currently learning **Ruby on Rails, Ruby, JavaScript, HTML/CSS**
 
